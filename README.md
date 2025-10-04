@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fally00
 - 👀 I’m interested in ai assistant proects and related stuff
 - 🌱 I’m currently learning Cyber security
-- 💞️ I’m looking to collaborate on java , python projects
+- ✨ I am more intrested in reading and breaking and building  , i love to know how things function and why , i would explore new stuff or make big ideas i cant build yet
 - 📫 How to reach me mail me!
 - ⚡ Fun fact: intersted in music 
 
