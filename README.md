@@ -4,12 +4,12 @@ Cybersecurity student | AI & Systems enthusiast | Always learning, always buildi
 ---
 
 ### Languages & Skills
-![Java](https://img.shields.io/badge/Java-Intermediate-red)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow)
-![HTML](https://img.shields.io/badge/HTML-Learning-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-blue)
+![Python](https://img.shields.io/badge/Python-intermediate-green)
+![Java](https://img.shields.io/badge/Java-Intermediate-green)
+![C++](https://img.shields.io/badge/C++-intermediate-green)
+![HTML](https://img.shields.io/badge/HTML-Learning-blue)
 ![CSS](https://img.shields.io/badge/CSS-Learning-blue)
-![C++](https://img.shields.io/badge/C++-Advanced-green)
-![Python](https://img.shields.io/badge/Python-Learning-lightgrey)
 
 ---
 
