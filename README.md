@@ -5,6 +5,10 @@ Currently working with C++ , Java and Python, improving architecture skills thro
 
 Email → rayanhisgam1234@gmail.com
 
+![C++](https://img.shields.io/badge/C++-Expert-blue)
+
+
+
 <!---
 Fally00/Fally00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
