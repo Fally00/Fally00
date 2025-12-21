@@ -22,9 +22,6 @@ Cybersecurity student | AI & Systems enthusiast | Always learning, always buildi
 ---
 ### GitHub Stats
 
-![Rayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fally00&show_icons=true&theme=radical&include_all_commits=true)
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fally00&layout=compact&theme=radical)
 
 
