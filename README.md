@@ -30,10 +30,10 @@ Cybersecurity student | AI & Systems enthusiast | Always learning, always buildi
 ---
 
 ### Featured Projects
-- **WMS-Cpp** – Console-based warehouse management system (in prograss).  
+- **WMS-X** – Console-based warehouse management system (in prograss).  
 - **Library-Managing-system-Java** – Library management system (in progress).  
-- **System Info Toolkit** - System insitght tool with the abitilty to improve (in prograss)
-- **Webbased-file-system** – Custom web-based file system explorer (FINISHED).
+- **SIT** - System insight toolkit with the abitilty to improve (in prograss)
+- **FileSystem-ResourceMonitor** – Custom web-based file system explorer (FINISHED).
 ---
 
 > “Learning everything, one project at a time.”
