@@ -1,39 +1,27 @@
-# Hey there, I'm Fally 👋
-Cybersecurity student | AI & Systems enthusiast | Always learning, always building
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fally00&show_icons=true&theme=radical&include_all_commits=true" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fally00&layout=compact&theme=radical" />
+</p>
 
-### Languages & Skills
+### 💻 Who am I?
+Hi, I’m **Rayan** 👋  
+Cybersecurity student • Tool builder • Lifelong learner
 
-![C++](https://img.shields.io/badge/C++-intermediate-green)
-![Java](https://img.shields.io/badge/Java-Intermediate-green)
-![Python](https://img.shields.io/badge/Python-intermediate-green)
-![HTML](https://img.shields.io/badge/HTML-Learning-blue)
-![CSS](https://img.shields.io/badge/CSS-Learning-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-blue)
-
----
+🔭 I’m currently working on:
+- System health & integrity tools (like **SIT**)
+- Algorithm optimization
+- Advanced Calculus learning
 
 ### 🛠️ Tech Stack
-- C++ | Python | Java | Frontend Stack
-- Git | Linux
+Python | Java | C | Bash | Git | Linux
 
+### 📌 Featured Projects
+<a href="https://github.com/Fally00/SIT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fally00&repo=SIT" />
+</a>
 
----
-### GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fally00&layout=compact&theme=radical)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fally00&theme=radical)
-
----
-
-### Featured Projects
-- **WMS-Cpp** – Console-based warehouse management system (in prograss).  
-- **Library-Managing-system-Java** – Library management system (in progress).  
-- **System Info Toolkit** - System insitght tool with the abitilty to improve (in prograss)
-- **Webbased-file-system** – Custom web-based file system explorer (FINISHED).
----
-
-> “Learning everything, one project at a time.”
+<p>📫 Connect with me:</p>
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue)](https://twitter.com/yourhandle)
