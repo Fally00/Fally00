@@ -24,9 +24,6 @@ Cybersecurity student | AI & Systems enthusiast | Always learning, always buildi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fally00&layout=compact&theme=radical)
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fally00&theme=radical)
-
 ---
 
 ### Featured Projects
