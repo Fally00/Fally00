@@ -18,7 +18,7 @@
 ![Python](https://img.shields.io/badge/Python-AI%20%26%20Tools-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-OOP%20%26%20Backend-orange?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-Kernel%20Level-black?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Command%20Level-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-darkred?style=for-the-badge&logo=git&logoColor=white)
 
 ![JSON](https://img.shields.io/badge/JSON-Data%20Format-yellow?style=for-the-badge&logo=json&logoColor=black)
