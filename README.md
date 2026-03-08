@@ -9,7 +9,8 @@
 - OS & Kernel Security  
 - Malware & Reverse Engineering  
 - System Monitoring & Detection  
-- AI for Security  
+- AI for Security
+- System architutre 
 
 ---
 
