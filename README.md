@@ -44,7 +44,6 @@ Currently engineering **ARC OS** — a lightweight, developer-first OS with an a
 **Frontend & Web**
 
 ![HTML](https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
