@@ -53,10 +53,10 @@ Currently engineering **ARC OS** — a lightweight, developer-first OS with an a
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
 | [**ARC OS**](https://github.com/Fally00) | Lightweight custom OS with AI monitoring core (SIT) and autonomous defense layer (Aurora) | `C++` `Systems Architecture` | 🔨 In Development |
+| [**CoreX**](https://github.com/Fally00/Corex) | Full-stack inventory management web app — roles, users, shipping sector, Docker deployment | `React` `Django` `Docker` | 🔨 Frontend Rework |
 | [**WMS-X**](https://github.com/Fally00/WMS-X) | Full-stack desktop warehouse management system — Qt6 GUI + CLI sharing one SQLite DB | `C++17` `Qt6` `SQLite` | ✅ Released v2.0.0 |
 | [**SIT**](https://github.com/Fally00/SIT) | Cross-platform system insight toolkit — real-time hardware & OS metrics on Linux & Windows | `C++17` `Linux` `Windows` | ✅ Active |
 | [**SIT-ML Core**](https://github.com/Fally00/SIT-ML-core) | AI resource monitor — LSTM prediction, Isolation Forest anomaly detection, RF classification | `Python` `scikit-learn` `Streamlit` | ✅ Complete |
-| **CoreX** | Full-stack inventory management web app — roles, users, shipping sector, Docker deployment | `React` `Django` `Docker` | 🔨 Frontend Rework |
 | [**Numerical Methods Calc**](https://github.com/Fally00/Numerical-Methods-Calculator) | 10-method numerical solver with step-by-step breakdowns and iteration tables | `Python` `Flask` `NumPy` | ✅ Complete |
 
 ---
